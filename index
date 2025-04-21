@@ -1,0 +1,16 @@
+Index:
+
+1.
+Implementation of a basic document retrieval system using an inverted index in Python
+2.
+Implementation of Retrieval Models (Boolean Model & Vector Space Model)
+3.
+Spelling Correction in Information Retrieval Systems using Levenshtein Distance
+4.
+Implementation of Evaluation Metrics for IR Systems (Precision, Recall, F1 - Score)
+5.
+Text Categorization Using Naive Bayes and SVM
+6.
+Clustering for Information Retrieval Using K-Means & Hierarchical Clustering
+7.
+Implementation of Page Ranking Algorithm
