@@ -1,8 +1,7 @@
- **invindex**  
- **boolnvecspace_IR**  
- **levdist*
-**evalmetrics**  
- **txtcat_SVM_naive**  
- **clustering**  
- **pagerank**
-
+invindex  
+boolnvecspace_IR  
+levdist  
+evalmetrics  
+txtcat_SVM_naive  
+clustering  
+pagerank
