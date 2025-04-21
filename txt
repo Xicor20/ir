@@ -1,7 +1,7 @@
-invindex  
-boolnvecspace_IR  
-levdist  
-evalmetrics  
-txtcat_SVM_naive  
-clustering  
+doc retrival-invindex  
+retrieval model-boolnvecspace_IR  
+spell check-levdist  
+evalmetrics(prec,recall,f1)  
+text categorize-txtcat_SVM_naive  
+clustering (k-mean,hierarchical) 
 pagerank
